@@ -208,9 +208,7 @@
 "name":"斯玛特全球直播",
 "type":3,
 "api":"https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-"ext":{
-
-}
+"ext":{}
 },
 
 {
@@ -285,6 +283,7 @@
 "timeout": 30,
 "playerType": 2
 },
+
 "name": "rocket Tv",
 "type": 0,
 "url": "https://iptv.rocket-tv.online/test-server/playlist.m3u",
@@ -301,7 +300,7 @@
 "playerType": 1,
 "ext": {}
 },
-	
+
 {
 "name": "所长judy",
 "type": "0",
@@ -311,6 +310,7 @@
 "playerType": 1,
 "ua": "xieanqishiwoerzi/0.0.1"
 },
+
 {
 "name": "欧华直播",
 "type": 0,
@@ -319,6 +319,7 @@
 "timeout": 30,
 "playerType": 1
 },
+
 {
 "name": "Gather",
 "type": 0,
@@ -327,7 +328,7 @@
 "timeout": 20,
 "playerType": 1
 },
-	
+
 {
 "name": "Live",
 "type": 0,
@@ -336,7 +337,7 @@
 "timeout": 20,
 "playerType": 1
 },
-	
+
 {
 "name": "MyTV",
 "type": 0,
@@ -351,14 +352,14 @@
   "url": "http://smart.pendy.dpdns.org/m3u/judy.m3u",
   "ua": "judy/5.2.1"
 },
- 
+
 {
   "name": "直播体育",
   "type": 3,
   "api": "http://framagit.org/knnnn/n/-/raw/main/j/kzbty.py",
   "ext": {}
 },
- 
+
 {
 "name": "yoo体育",
 "type": 3,
@@ -371,7 +372,7 @@
   "api": "http://framagit.org/knnnn/n/-/raw/main/j/360pai.py",
   "ext": {}
 },
- 
+
 {
   "name": "松园",
   "type": 0,
